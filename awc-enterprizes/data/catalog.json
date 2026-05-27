@@ -1,0 +1,202 @@
+{
+  "company": {
+    "name": "AWC Enterprizes",
+    "tagline": "Transparency. Strength. Elegance.",
+    "description": "Premium glass work, balcony railing systems, designer doors, windows, partitions, PVC items, aluminium solutions, fittings and enterprise hardware."
+  },
+  "sources": [
+    "GLASS BLACONY DEALER PRICE LIST MARCH-1.pdf",
+    "KATLOK-1-2.pdf",
+    "Okotech Brochure_ V2_Low_Revised_AEL 01-01-24.pdf",
+    "VIRGO_ABCO_DOORS_17-04-2025N - PDF.pdf"
+  ],
+  "categories": [
+    {
+      "id": "glass",
+      "name": "Glass & Balcony Systems",
+      "summary": "Clear, tinted and frosted toughened glass systems for balconies, staircases, partitions and premium interiors.",
+      "products": [
+        {
+          "name": "Toughened Glass Balcony Railing",
+          "description": "A refined railing system for residential and commercial balconies using toughened glass panels with clean edge detailing.",
+          "image": "assets/products/glass-balcony-railing.webp",
+          "specs": ["12 mm toughened glass options", "Clear, tinted and frosted glass variants", "Suitable for balconies and terraces", "Compatible with SS and aluminium fittings"]
+        },
+        {
+          "name": "SS-304 Spigot Railing System",
+          "description": "Minimal spigot-based glass railing setup for open, modern spaces where visibility and premium finishing matter.",
+          "image": "assets/products/glass-spigot-system.webp",
+          "specs": ["SS-304 material", "Spigot mounting", "Base cover plate and gasket support", "Indoor and outdoor applications"]
+        },
+        {
+          "name": "Aluminium Top-Rail Glass Railing",
+          "description": "A sturdy glass railing profile with top rail, wall conceal fittings, bends and jointers for continuous balcony runs.",
+          "image": "assets/products/glass-balcony-project.webp",
+          "specs": ["Black, grey and wooden coated finish options", "Top rail with gasket", "A-type, T-type and ferry bracket options", "Custom site measurement support"]
+        },
+        {
+          "name": "LED Bottom Profile Railing",
+          "description": "Statement glass railing profile with integrated lighting-friendly base detailing for luxury interiors and staircases.",
+          "image": "assets/products/glass-led-handrail.webp",
+          "specs": ["LED bottom profile configuration", "Premium aluminium coated profile", "Clear glass compatibility", "Ideal for villas, showrooms and feature zones"]
+        },
+        {
+          "name": "Glass Partitions & Interior Panels",
+          "description": "Clean glass partition work for offices, showrooms and interiors needing openness with elegant separation.",
+          "image": "assets/products/glass-partition.webp",
+          "specs": ["Custom partition sizing", "Clear or tinted glass options", "Edge and railing hardware coordination", "Suitable for commercial interiors"]
+        }
+      ]
+    },
+    {
+      "id": "windows",
+      "name": "Windows, Doors & Profiles",
+      "summary": "uPVC, aluminium and glass-aligned opening systems for durable, low-maintenance building envelopes.",
+      "products": [
+        {
+          "name": "uPVC Casement Window System",
+          "description": "Premium uPVC window profile suitable for homes, offices and hospitality spaces requiring durability and insulation.",
+          "image": "assets/products/upvc-casement-window.webp",
+          "specs": ["Lead-free uPVC profile system", "Weather-resistant profile design", "Smooth sash and frame finish", "Compatible with glass and mesh options"]
+        },
+        {
+          "name": "Sliding & Fixed Window Profiles",
+          "description": "Practical window profile solutions for large openings, fixed panels, ventilation zones and facade work.",
+          "image": "assets/products/upvc-profile-system.webp",
+          "specs": ["Sliding, fixed and combination formats", "Clean profile geometry", "Low maintenance finish", "Residential and commercial use"]
+        },
+        {
+          "name": "uPVC Door System",
+          "description": "A refined door profile option for balconies, entries and utility areas where stability and clean finishing are essential.",
+          "image": "assets/products/upvc-door-system.webp",
+          "specs": ["Door profile configuration", "Glass panel compatibility", "Modern handle and hardware support", "Weather-friendly performance"]
+        },
+        {
+          "name": "Profile Supply & Fabrication Support",
+          "description": "Enterprise supply support for profiles, fabrication needs and project-level product selection.",
+          "image": "assets/products/upvc-factory-line.webp",
+          "specs": ["Profile selection support", "Project quantity planning", "Fabrication-friendly systems", "Dealer and contractor coordination"]
+        }
+      ]
+    },
+    {
+      "id": "doors",
+      "name": "Designer Door Collections",
+      "summary": "Decorative, digital and premium wood-finish door collections for high-end residential and interior projects.",
+      "products": [
+        {
+          "name": "Premium Designer Doors",
+          "description": "Elegant decorative doors with modern patterns and premium room-set presentation for upscale interiors.",
+          "image": "assets/products/designer-door-premium.webp",
+          "specs": ["Decorative design collections", "Wood and premium finish options", "Residential and apartment projects", "Coordinated hardware support"]
+        },
+        {
+          "name": "Digital Decorative Doors",
+          "description": "Statement door surfaces with digital-style motifs and expressive finishes for feature rooms and entry points.",
+          "image": "assets/products/designer-door-digital.webp",
+          "specs": ["Digital print-style designs", "Feature and bedroom door use", "Multiple pattern families", "Premium visual finish"]
+        },
+        {
+          "name": "Modern Flush & Panel Doors",
+          "description": "Clean modern door options with horizontal lines, subtle paneling and refined wood tones.",
+          "image": "assets/products/designer-door-modern.webp",
+          "specs": ["Modern flush formats", "Wood-grain finishes", "Simple premium detailing", "Suitable for offices and homes"]
+        },
+        {
+          "name": "Ornamental Entry Doors",
+          "description": "Decorative door styles with accent inlays and pattern work for premium front-facing applications.",
+          "image": "assets/products/designer-door-ornamental.webp",
+          "specs": ["Ornamental surface work", "Accent pattern collections", "Entry and statement door use", "Finish coordination available"]
+        }
+      ]
+    },
+    {
+      "id": "pvc",
+      "name": "PVC, Lamination & Interior Items",
+      "summary": "PVC membrane doors, lamination door panels, cabinet shutters and furniture-front solutions.",
+      "products": [
+        {
+          "name": "PVC Membrane Door Shutters",
+          "description": "Decorative membrane door shutter options for interiors, cabinetry and furniture-facing requirements.",
+          "image": "assets/products/pvc-membrane-door.webp",
+          "specs": ["PVC membrane finish", "Multiple design families", "Cabinet and interior door usage", "Custom project selection support"]
+        },
+        {
+          "name": "Lamination Door Sets",
+          "description": "Curated lamination door designs with wood, geometric and decorative pattern options.",
+          "image": "assets/products/lamination-door-set.webp",
+          "specs": ["Laminated surface options", "Decorative door panels", "Interior-ready finishes", "Suitable for apartments and commercial interiors"]
+        },
+        {
+          "name": "Cabinet & Furniture Door Panels",
+          "description": "Panel solutions for cabinets, furniture fronts and interior installations requiring coordinated finishes.",
+          "image": "assets/products/cabinet-door-panels.webp",
+          "specs": ["Cabinet door applications", "Furniture front panels", "Decorative and plain finishes", "Bulk selection support"]
+        },
+        {
+          "name": "Decorative Interior Panels",
+          "description": "Patterned PVC and lamination items for interior surface upgrades and custom project requirements.",
+          "image": "assets/products/decorative-door-panels.webp",
+          "specs": ["Decorative surface patterns", "Panel and shutter formats", "Interior project fit", "Finish matching assistance"]
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "Fittings & Hardware",
+      "summary": "Glass, railing, door and window accessories including brackets, rails, gaskets, handles and installation-ready fittings.",
+      "products": [
+        {
+          "name": "Railing Brackets & Accessories",
+          "description": "Ferry brackets, A-type brackets, T-type brackets, wall conceal pieces, bends and jointers for railing assemblies.",
+          "image": "assets/products/glass-balcony-project.webp",
+          "specs": ["A-type, T-type and ferry bracket formats", "Wall conceal and bend accessories", "Top rail compatibility", "Finish-matched installation support"]
+        },
+        {
+          "name": "Spigots, Gaskets & Base Covers",
+          "description": "Installation essentials for clean glass railing assemblies, including spigots, gaskets and cover plates.",
+          "image": "assets/products/glass-spigot-system.webp",
+          "specs": ["SS and aluminium system compatibility", "Glass support accessories", "Base cover detailing", "Site-specific quantity planning"]
+        },
+        {
+          "name": "Door & Window Fitting Support",
+          "description": "Hardware coordination for designer doors, uPVC systems, sliding windows and aluminium/glass projects.",
+          "image": "assets/products/upvc-door-system.webp",
+          "specs": ["Handle and fitting coordination", "Door and window compatibility", "Project hardware selection", "Contractor-ready support"]
+        }
+      ]
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Premium showroom display",
+      "image": "assets/hero-window-display.webp",
+      "category": "Windows"
+    },
+    {
+      "title": "White uPVC window system",
+      "image": "assets/showroom-white-window.webp",
+      "category": "uPVC"
+    },
+    {
+      "title": "Balcony glass railing",
+      "image": "assets/products/glass-balcony-railing.webp",
+      "category": "Glass"
+    },
+    {
+      "title": "Designer door collection",
+      "image": "assets/products/designer-door-premium.webp",
+      "category": "Doors"
+    },
+    {
+      "title": "Interior glass partition",
+      "image": "assets/products/glass-partition.webp",
+      "category": "Partitions"
+    },
+    {
+      "title": "uPVC casement solution",
+      "image": "assets/products/upvc-casement-window.webp",
+      "category": "Windows"
+    }
+  ]
+}
