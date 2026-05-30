@@ -49,7 +49,7 @@ document.querySelector("[data-year]").textContent = new Date().getFullYear();
 
 async function initCatalog() {
   try {
-    const response = await fetch("data/catalog.json");
+    const response = await fetch("./data/catalog.json");
     if (!response.ok) throw new Error("Catalog could not be loaded");
     state.catalog = await response.json();
     renderCategoryTabs();
