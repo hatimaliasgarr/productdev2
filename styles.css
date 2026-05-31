@@ -118,7 +118,9 @@ textarea {
 .brand img {
   width: 56px;
   height: 56px;
-  object-fit: cover;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  padding: 4px;
   border-radius: 8px;
   border: 1px solid rgba(183, 139, 60, 0.24);
   background: var(--white);
@@ -871,9 +873,12 @@ textarea {
 .footer-brand img {
   width: 64px;
   height: 64px;
-  object-fit: cover;
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+  padding: 4px;
   border-radius: 8px;
   border: 1px solid rgba(183, 139, 60, 0.24);
+  background: var(--white);
 }
 
 .footer-brand p,
@@ -1050,6 +1055,16 @@ textarea {
     grid-auto-rows: 280px;
   }
 
+  .about-visual img,
+  .product-media,
+  .gallery-item {
+    aspect-ratio: 16 / 11;
+  }
+
+  .gallery-grid {
+    grid-auto-rows: auto;
+  }
+
   .gallery-item:first-child {
     grid-row: span 1;
   }
@@ -1067,8 +1082,9 @@ textarea {
 
 @media (max-width: 520px) {
   .brand img {
-    width: 48px;
-    height: 48px;
+    width: 50px;
+    height: 50px;
+    padding: 3px;
   }
 
   .brand strong {

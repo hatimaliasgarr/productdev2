@@ -1,6 +1,6 @@
-# AWC Enterprizes Landing Page
+# AWC Enterprises Landing Page
 
-Premium static website for AWC Enterprizes with a beige and gold luxury theme, responsive layout, smooth interactions, PDF-derived product imagery, and a dynamic product catalog.
+Premium static website for AWC Enterprises with a beige and gold luxury theme, responsive layout, smooth interactions, PDF-derived product imagery, and a dynamic product catalog.
 
 ## Run Locally
 
